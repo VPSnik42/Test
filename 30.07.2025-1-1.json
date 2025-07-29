@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Owen",
+    "age": 17,
+    "address": {
+        "street": "Burns Turnpike",
+        "city": "West David",
+        "state": "Maryland",
+        "zip": "37373"
+    },
+    "contact": {
+        "phone": "+1-978-990-1096x8845",
+        "servicePhone": "800776254"
+    },
+    "birthday": "2008-09-10",
+    "ip": "194.214.3.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe major sea system listen. Build positive who build fight.\nSerious particularly American season space course. Wife set executive entire area huge figure. Either develop authority so.",
+        "bio": "Charge reason hair drive teacher activity part. Information seek under when. Economic unit grow able itself series house. Forward agree relationship across property us road."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
