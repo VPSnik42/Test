@@ -1,0 +1,25 @@
+{
+    "name": "James Lee",
+    "age": 15,
+    "address": {
+        "street": "Thomas Hills",
+        "city": "East Scottburgh",
+        "state": "New Mexico",
+        "zip": "49025"
+    },
+    "contact": {
+        "phone": "5752676268",
+        "servicePhone": "800673596"
+    },
+    "birthday": "2010-24-09",
+    "ip": "169.185.249.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment buy song same. Consumer bed four wide also front picture. Take part little tell us.\nStill management onto establish. Seven seem certain when despite benefit.",
+        "bio": "Full American others particularly leave will continue. Might close message remain ten each ten space. Sound decision head actually agent walk."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
