@@ -1,0 +1,25 @@
+{
+    "name": "Angela Miller",
+    "age": 92,
+    "address": {
+        "street": "Mark Mission",
+        "city": "South Christopher",
+        "state": "West Virginia",
+        "zip": "66760"
+    },
+    "contact": {
+        "phone": "9662697661",
+        "servicePhone": "800413787"
+    },
+    "birthday": "1933-25-02",
+    "ip": "44.228.196.92",
+    "foo": "bar",
+    "profile": {
+        "about": "President serve risk nearly partner. However worker kind goal money must. Author seat nearly wait.\nPressure establish garden rich provide nice catch.",
+        "bio": "Chance PM fire environment huge something arrive. Surface less claim their.\nEstablish herself animal traditional relate another bad condition. Drop food hotel base reason day market control."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
