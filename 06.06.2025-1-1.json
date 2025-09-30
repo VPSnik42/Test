@@ -1,0 +1,25 @@
+{
+    "name": "Denise Cole",
+    "age": 64,
+    "address": {
+        "street": "Cynthia Course",
+        "city": "North Jacob",
+        "state": "Delaware",
+        "zip": "41951"
+    },
+    "contact": {
+        "phone": "6617001538",
+        "servicePhone": "800976463"
+    },
+    "birthday": "1961-25-11",
+    "ip": "44.63.29.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Special main major bring me help. Remember own floor response painting wide. Yourself heart lot there color mouth.",
+        "bio": "Quite success training attorney make instead once. According foot economic stage total.\nKnowledge company environmental sing society develop. Radio take perform policy."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Young",
+    "age": 83,
+    "address": {
+        "street": "Kelly Landing",
+        "city": "West Danaview",
+        "state": "New Mexico",
+        "zip": "52531"
+    },
+    "contact": {
+        "phone": "576-543-6368",
+        "servicePhone": "800303061"
+    },
+    "birthday": "1942-13-12",
+    "ip": "75.155.40.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad into several save stock hard husband. Beat condition across lawyer decision beautiful kid over.",
+        "bio": "Keep partner operation green. Economic all receive among cover course resource.\nSecurity window create bit. Career participant reason building. Easy quickly plan relationship."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
