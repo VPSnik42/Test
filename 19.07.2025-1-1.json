@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Richards",
+    "age": 112,
+    "address": {
+        "street": "Scott Station",
+        "city": "West Allen",
+        "state": "Pennsylvania",
+        "zip": "85410"
+    },
+    "contact": {
+        "phone": "594.648.3866x899",
+        "servicePhone": "800311868"
+    },
+    "birthday": "1913-03-09",
+    "ip": "149.219.192.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Political happy hospital. Maintain truth behind. Interview heart summer write wide.\nEvent cultural control hotel. Will real worker gas clear situation laugh.",
+        "bio": "Detail believe probably. Voice open land this very effort. Whether simply mother.\nHealth thousand believe yet issue town. Sound light what reflect between enter. Get nor trial wind board."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}

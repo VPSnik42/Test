@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Morse",
+    "age": 43,
+    "address": {
+        "street": "Saunders Fort",
+        "city": "Brandonchester",
+        "state": "Texas",
+        "zip": "54480"
+    },
+    "contact": {
+        "phone": "+1-582-937-2562x6222",
+        "servicePhone": "800521883"
+    },
+    "birthday": "1982-04-04",
+    "ip": "22.80.134.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Into sure much science. Family since final he seven face open impact. Senior standard specific cost summer.",
+        "bio": "Hand draw Congress financial save bag. Newspaper character response public as."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
