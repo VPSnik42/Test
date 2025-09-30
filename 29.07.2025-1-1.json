@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Howard",
+    "age": 32,
+    "address": {
+        "street": "Carroll Mills",
+        "city": "East Joshuafort",
+        "state": "Idaho",
+        "zip": "02522"
+    },
+    "contact": {
+        "phone": "(358)567-6558x6236",
+        "servicePhone": "800308161"
+    },
+    "birthday": "1993-16-08",
+    "ip": "50.196.194.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Garden know prevent president respond raise. Speak feel develop this. Develop old fund along word pressure check. But popular vote.",
+        "bio": "Suddenly direction shoulder relate rate worry. Season paper race marriage second threat total address."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

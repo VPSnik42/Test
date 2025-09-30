@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Vasquez",
+    "age": 84,
+    "address": {
+        "street": "Williams Rest",
+        "city": "Port Brittany",
+        "state": "Hawaii",
+        "zip": "79568"
+    },
+    "contact": {
+        "phone": "698.222.6450x69268",
+        "servicePhone": "800561717"
+    },
+    "birthday": "1941-05-06",
+    "ip": "74.40.122.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Trial start use appear concern design other task. Best we each skin part. Direction avoid end agree.",
+        "bio": "Join along wide. Whom TV far your way.\nStill practice population wide add traditional.\nOther skin easy someone hope point society. Believe just TV plan wall necessary reality fast."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
