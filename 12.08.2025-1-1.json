@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Gomez",
+    "age": 30,
+    "address": {
+        "street": "Melissa Plaza",
+        "city": "Port Andrealand",
+        "state": "Virginia",
+        "zip": "50548"
+    },
+    "contact": {
+        "phone": "892.738.9525x602",
+        "servicePhone": "800864708"
+    },
+    "birthday": "1995-16-12",
+    "ip": "158.172.189.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill over cost sometimes a son. Commercial make everything go.\nHear floor will believe hour. Responsibility drive somebody television recognize item challenge.",
+        "bio": "Rest public parent herself foreign authority. Ago history line federal news continue.\nSave defense house try his find television. Charge pick process Republican Mr remain try. Eye perform say then."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

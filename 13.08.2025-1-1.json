@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Smith",
+    "age": 111,
+    "address": {
+        "street": "Stevenson Points",
+        "city": "New Frank",
+        "state": "Ohio",
+        "zip": "92911"
+    },
+    "contact": {
+        "phone": "503-881-5922x302",
+        "servicePhone": "800110979"
+    },
+    "birthday": "1914-30-10",
+    "ip": "113.121.175.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Tonight product early long go over. Wait camera board total authority cause. Possible memory sound tough.\nFree bill meeting hold teacher. Position bar parent tax who employee. Smile garden road.",
+        "bio": "Those practice let claim lose enough too major. Movement reduce above must. Guy purpose second artist.\nUnit media owner. Main whether heavy perhaps hold total into. Director large fact card."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
