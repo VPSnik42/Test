@@ -1,0 +1,25 @@
+{
+    "name": "Erik Carter",
+    "age": 34,
+    "address": {
+        "street": "Barker Villages",
+        "city": "Christopherhaven",
+        "state": "Kentucky",
+        "zip": "54707"
+    },
+    "contact": {
+        "phone": "+1-721-245-5626",
+        "servicePhone": "800614722"
+    },
+    "birthday": "1991-08-12",
+    "ip": "116.62.101.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Billion hour others usually defense doctor. Pay job newspaper public six.\nCampaign simply member be few paper whole.",
+        "bio": "One area play area forget. Policy will fly mission.\nDevelop size art place whose career. Station event ahead technology poor. Child commercial maybe lawyer none just will."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

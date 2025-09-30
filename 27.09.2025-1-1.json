@@ -1,0 +1,25 @@
+{
+    "name": "Adam Oconnor",
+    "age": 82,
+    "address": {
+        "street": "Jason Rue",
+        "city": "South Kimport",
+        "state": "Texas",
+        "zip": "68022"
+    },
+    "contact": {
+        "phone": "(377)365-0046x1203",
+        "servicePhone": "800854654"
+    },
+    "birthday": "1943-20-11",
+    "ip": "123.6.101.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology investment oil story necessary read. Enter weight player.\nHot door most onto know. National ask information sport always shoulder approach. Offer involve house bag. Piece later bring.",
+        "bio": "Me shoulder serious draw day. Act green base letter material movie. Much thus player behavior future tell. Partner fine space weight art approach."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
