@@ -1,0 +1,25 @@
+{
+    "name": "Walter Grimes",
+    "age": 39,
+    "address": {
+        "street": "Finley Cove",
+        "city": "North Jill",
+        "state": "Connecticut",
+        "zip": "44829"
+    },
+    "contact": {
+        "phone": "322-785-1326x584",
+        "servicePhone": "800492988"
+    },
+    "birthday": "1986-12-01",
+    "ip": "221.114.244.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Describe last party. Into article every rest. Always as memory politics.\nRegion have though month turn gas car. Right field view rise nor. Lose onto measure size black also ten.",
+        "bio": "Generation save authority serious. Style become may table manager could. Human yeah value mean rest law force them. International away American with TV middle grow."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
