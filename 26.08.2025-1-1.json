@@ -1,0 +1,25 @@
+{
+    "name": "Scott Davis",
+    "age": 96,
+    "address": {
+        "street": "Robinson Wells",
+        "city": "South Laurenbury",
+        "state": "North Carolina",
+        "zip": "28216"
+    },
+    "contact": {
+        "phone": "001-887-576-6470x023",
+        "servicePhone": "800846609"
+    },
+    "birthday": "1929-17-02",
+    "ip": "212.11.226.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Color take beyond man. Place expert this which once four.",
+        "bio": "Billion food computer medical rise report baby. Mind tell short few color walk item. Best page expert money then.\nUse media firm than."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
