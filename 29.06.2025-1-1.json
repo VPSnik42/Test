@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Jones",
+    "age": 21,
+    "address": {
+        "street": "Velasquez Track",
+        "city": "Melissaport",
+        "state": "West Virginia",
+        "zip": "14844"
+    },
+    "contact": {
+        "phone": "962-987-4406",
+        "servicePhone": "800126066"
+    },
+    "birthday": "2004-15-01",
+    "ip": "217.138.46.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring action deep pull successful less future. Somebody color media account leader man.",
+        "bio": "Control trouble son vote personal happy. Sing company voice really good.\nHimself popular toward. Identify bill collection to. Window would hold develop gun resource word."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

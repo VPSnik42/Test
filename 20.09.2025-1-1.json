@@ -1,0 +1,25 @@
+{
+    "name": "Keith Robinson",
+    "age": 91,
+    "address": {
+        "street": "Huff Prairie",
+        "city": "New Ianburgh",
+        "state": "Washington",
+        "zip": "39134"
+    },
+    "contact": {
+        "phone": "971-833-3523",
+        "servicePhone": "800860398"
+    },
+    "birthday": "1934-11-07",
+    "ip": "118.13.230.98",
+    "foo": "bar",
+    "profile": {
+        "about": "How night yeah new. Big house consider local take soon as five. Just seat laugh.\nRadio environmental security husband. Wonder culture wide sister.",
+        "bio": "Prevent of economic do dinner anyone. Page yes from after speech seek. Human firm consider different between out economy."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
